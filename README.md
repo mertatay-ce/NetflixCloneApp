@@ -4,13 +4,13 @@ A Netflix clone app by Mert Atay for App Inovation Mobile Journey Bootcamp
 
 ## Getting Started
 
-Bu proje Flutter framework kullanılarak gerçekleşitirilmiş bir klon uygulma projesidir. Temel seviyede geliştirdiğimiz bu uygulamada 3 adet ekranımız bulunmaktadır.
+Bu proje Flutter framework kullanılarak gerçekleştirilmiş bir klon uygulama projesidir. Temel seviyede geliştirdiğimiz bu uygulamada 3 adet ekranımız bulunmaktadır.
 
 - Ana Ekran
 - Yeni ve Popüler ekranı
 - Benim Netflix'im ekranı
 
-olmak üzere 3 adet ekrandan oluşmaktadır. Tasarın olarak bazı iconları Figma üzerinden gerçekleştirilmiştir.
+olmak üzere 3 adet ekrandan oluşmaktadır. Tasarım olarak indirme ve search ikonları Figma üzerinden gerçekleştirilmiştir.
 
 Başlatmak içib:
 
