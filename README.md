@@ -12,7 +12,7 @@ Bu proje Flutter framework kullanılarak gerçekleştirilmiş bir klon uygulama 
 
 olmak üzere 3 adet ekrandan oluşmaktadır. Tasarım olarak indirme ve search ikonları Figma üzerinden gerçekleştirilmiştir.
 
-Başlatmak içib:
+Başlatmak için:
 
 - Öncelikle repoda bulunan debug apk'sını kuramnız gerekmektedir. Bunu versiyon son halde olarak build etmiş olacağım. Ama eğer bir geliştirici iseniz
 Android Studio üzerinden Flutter eklentisi kurup, Open Project kısmından git versiyon kontrol ile getiri seçip projeyi forklayabilirsiniz.
