@@ -23,14 +23,14 @@ Android Studio üzerinden Flutter eklentisi kurup, Open Project kısmından git 
 - Ana Ekran
 
 
-![Ana Ekran][main_page.png](main_page.png)
+![Ana Ekran](main_page.png)
 
 
 - Yeni ve Popüler Ekranı
 
-![Yeni ve Popüler Ekranı][new_and_popular.png](new_and_popular.png)
+![Yeni ve Popüler Ekranı](new_and_popular.png)
 
 
 - Benim Netflix'im Ekranı
 
-![Benim Netflix'im Ekranı][my_netflix.png](my_netflix.png)
+![Benim Netflix'im Ekranı](my_netflix.png)
